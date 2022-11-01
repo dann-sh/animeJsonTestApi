@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "errors": [],
+    "total_pages": 3,
+    "current_page": 1,
+    "articles": [{
+        "id": "1",
+        "title": "One Piece",
+        "description": "Incluso en el infierno la flor de la amistad pude florecer. Como el vaivén de las olas el pétalo de una flor que se queda atrás y de nuevo, algún día, nos volveremos a ver.",
+        "image": ""
+    }, {
+        "id": "2",
+        "title": "HxH",
+        "description": "En el momento en que dejes de aceptar los desafíos, será el momento en que tu vida termine",
+        "image": ""
+        }
+    }, {
+        "id": "3",
+        "title": "Full metal alchemist",
+        "description": "Una lección sin dolor no tiene sentido. Eso es porque no se puede ganar algo sin sacrificar algo a cambio. Sin embargo, una vez que hayas soportado el dolor y lo hayas superado, ganarás un corazón que es más fuerte que todo lo demás. Así es, un corazón de acero",
+        "image": ""
+    }, {
+        "id": "4",
+        "title": "JoJo's",
+        "description": "El valor no consiste en no tener miedo al ponerte en peligro, sino en hacerlo conscientemente por una causa justa.",
+        "image": ""
+    }, {
+        "id": "5",
+        "title": "Soul Eater",
+        "description": "¡Yo no rechazo la maldad! ¡No hay corazón en el mundo que no posea maldad!",
+        "image": ""
+    }]
+}
