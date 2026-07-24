@@ -50,19 +50,19 @@
     },
     {
       "id": "d2e3f4a5-b6c7-8901-defa-012345678901",
-      "name": "Jacaranda",
-      "image": "jacaranda",
-      "description": "Árbol nativo de México famoso por sus espectaculares flores violeta-azuladas que cubren sus ramas antes de que broten las hojas, tiñendo calles y jardines de morado cada primavera.",
-      "care": "Riega regularmente en temporada seca. Sol pleno. Tierra fértil con buen drenaje. Poda moderada tras la floración.",
+      "name": "Nopal",
+      "image": "nopal",
+      "description": "Cactus icónico de México, símbolo nacional que aparece en la bandera mexicana. Sus pencas carnosas son fuente de alimento desde tiempos prehispánicos y produce flores amarillas y rojas llamadas tunas.",
+      "care": "Riega con muy poca frecuencia, solo cuando la tierra esté completamente seca. Sol pleno. Tierra arenosa con excelente drenaje. Extremadamente resistente a la sequía.",
       "registrationDate": "2025-05-20T10:00:00Z",
       "isFavorite": false
     },
     {
       "id": "e3f4a5b6-c7d8-9012-efab-123456789012",
-      "name": "Bugambilia",
-      "image": "bugambilia",
-      "description": "Una de las plantas más representativas de México, con vistosas brácteas en tonos magenta, rosa, naranja o blanco. Trepadora vigorosa que decora bardas y jardines durante casi todo el año.",
-      "care": "Riega con moderación, tolera sequía. Sol pleno. Florece más abundantemente con estrés hídrico controlado. Poda tras cada ciclo de floración.",
+      "name": "Orquídea Pelícano",
+      "image": "orquidea_pelicano",
+      "description": "Orquídea nativa mexicana conocida por sus flores con una forma peculiar que recuerda al pico de un pelícano. Crece en los bosques de niebla y selvas húmedas del sureste de México.",
+      "care": "Riega con frecuencia manteniendo humedad constante. Luz indirecta brillante. Alta humedad ambiental. Evita el sol directo y las corrientes de aire frío.",
       "registrationDate": "2025-07-10T10:00:00Z",
       "isFavorite": true
     },
