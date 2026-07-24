@@ -5,7 +5,7 @@
     "current_page": 1,
     "plants": [{
       "id": "e7f8a9b0-c1d2-3456-efab-567890123456",
-      "name": "Agave",
+      "name": "https://github.com/dann-sh/animeJsonTestApi/blob/main/agave.png?raw=true",
       "image": "agave",
       "description": "Suculenta icónica mexicana con hojas gruesas y carnosas terminadas en espinas afiladas. Usada por siglos para producir pulque, mezcal y tequila.",
       "care": "Riega con poca frecuencia. Sol pleno. Tierra arenosa con buen drenaje. Extremadamente resistente a la sequía.",
@@ -15,7 +15,7 @@
     {
       "id": "f8a9b0c1-d2e3-4567-fabc-678901234567",
       "name": "Cempasúchil",
-      "image": "cempasuchil",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/cempasuchil.png?raw=true",
       "description": "El icónico cempasúchil mexicano con flores vibrantes en naranja y amarillo, usado tradicionalmente para decorar altares en el Día de Muertos.",
       "care": "Riega regularmente. Sol pleno. Tierra con buen drenaje. Florece en otoño.",
       "registrationDate": "2024-04-01T22:26:40Z",
@@ -24,7 +24,7 @@
     {
       "id": "a9b0c1d2-e3f4-5678-abcd-789012345678",
       "name": "Dalia",
-      "image": "dalia",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/dalia.png?raw=true",
       "description": "La flor nacional de México, disponible en cientos de variedades con flores impresionantes que van del blanco al morado intenso.",
       "care": "Riega con frecuencia. Sol pleno a semisombra. Tierra rica con buen drenaje. Tutora las variedades altas.",
       "registrationDate": "2024-07-25T22:40:00Z",
@@ -33,7 +33,7 @@
     {
       "id": "b0c1d2e3-f4a5-6789-bcde-890123456789",
       "name": "Nochebuena",
-      "image": "nochebuena",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/nochebuena.png?raw=true",
       "description": "Conocida mundialmente como Poinsettia, esta planta nativa mexicana es famosa por sus brácteas rojas que florecen en Navidad.",
       "care": "Riega cuando la tierra esté seca. Luz indirecta brillante. Evita corrientes frías. Reduce el riego tras la floración.",
       "registrationDate": "2024-11-17T22:53:20Z",
@@ -42,7 +42,7 @@
     {
       "id": "c1d2e3f4-a5b6-7890-cdef-901234567890",
       "name": "Salvia Mexicana",
-      "image": "salvia_mexicana",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/salvia_mexicana.png?raw=true",
       "description": "Salvia nativa mexicana con llamativas flores azul-morado intenso que atraen colibríes y polinizadores.",
       "care": "Riega con moderación. Sol pleno a semisombra. Tierra con buen drenaje. Poda tras la floración.",
       "registrationDate": "2025-03-10T23:06:40Z",
