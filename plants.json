@@ -51,7 +51,7 @@
     {
       "id": "d2e3f4a5-b6c7-8901-defa-012345678901",
       "name": "Nopal",
-      "image": "nopal",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/nopal.png?raw=true",
       "description": "Cactus icónico de México, símbolo nacional que aparece en la bandera mexicana. Sus pencas carnosas son fuente de alimento desde tiempos prehispánicos y produce flores amarillas y rojas llamadas tunas.",
       "care": "Riega con muy poca frecuencia, solo cuando la tierra esté completamente seca. Sol pleno. Tierra arenosa con excelente drenaje. Extremadamente resistente a la sequía.",
       "registrationDate": "2025-05-20T10:00:00Z",
@@ -60,7 +60,7 @@
     {
       "id": "e3f4a5b6-c7d8-9012-efab-123456789012",
       "name": "Orquídea Pelícano",
-      "image": "orquidea_pelicano",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/orquideaPelicano.png?raw=true",
       "description": "Orquídea nativa mexicana conocida por sus flores con una forma peculiar que recuerda al pico de un pelícano. Crece en los bosques de niebla y selvas húmedas del sureste de México.",
       "care": "Riega con frecuencia manteniendo humedad constante. Luz indirecta brillante. Alta humedad ambiental. Evita el sol directo y las corrientes de aire frío.",
       "registrationDate": "2025-07-10T10:00:00Z",
@@ -69,7 +69,7 @@
     {
       "id": "f4a5b6c7-d8e9-0123-fabc-234567890123",
       "name": "Noche Buena Silvestre",
-      "image": "noche_buena_silvestre",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/nochebuenaSilvestre.png?raw=true",
       "description": "La versión silvestre de la Poinsettia, originaria de los bosques tropicales de México. Puede alcanzar varios metros de altura y produce las mismas brácteas rojas icónicas en su forma natural.",
       "care": "Riega regularmente en temporada de crecimiento. Sol pleno a semisombra. Tierra fértil. Tolera mejor la sequía que su versión de maceta.",
       "registrationDate": "2025-09-01T10:00:00Z",
@@ -78,7 +78,7 @@
     {
       "id": "a5b6c7d8-e9f0-1234-abcd-345678901234",
       "name": "Flor de Maguey",
-      "image": "flor_de_maguey",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/florMaguey.png?raw=true",
       "description": "El agave produce una sola floración espectacular al final de su vida, lanzando un tallo de hasta 8 metros con racimos de flores amarillas. Un evento único e irrepetible.",
       "care": "Sin cuidados adicionales, ocurre naturalmente. Sol pleno. Una vez que florece, la planta madre muere dejando hijuelos.",
       "registrationDate": "2025-11-15T10:00:00Z",
@@ -87,7 +87,7 @@
     {
       "id": "b6c7d8e9-f0a1-2345-bcde-456789012345",
       "name": "Colorín",
-      "image": "colorin",
+      "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/colorin.png?raw=true",
       "description": "Árbol nativo mexicano conocido por sus llamativas flores rojas tubulares que aparecen antes que las hojas. Sus semillas color coral son usadas en artesanías tradicionales.",
       "care": "Riega moderadamente. Sol pleno. Resistente a la sequía una vez establecido. Poda de formación en temporada seca.",
       "registrationDate": "2026-01-20T10:00:00Z",
