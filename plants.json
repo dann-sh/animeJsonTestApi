@@ -5,12 +5,17 @@
     "current_page": 1,
     "plants": [{
       "id": "e7f8a9b0-c1d2-3456-efab-567890123456",
-      "name": "Agave :D",
+      "name": "Agave",
       "image": "https://github.com/dann-sh/animeJsonTestApi/blob/main/agave.png?raw=true",
       "description": "Suculenta icónica mexicana con hojas gruesas y carnosas terminadas en espinas afiladas. Usada por siglos para producir pulque, mezcal y tequila.",
       "care": "Riega con poca frecuencia. Sol pleno. Tierra arenosa con buen drenaje. Extremadamente resistente a la sequía.",
       "registrationDate": "2023-12-07T22:13:20Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 20.6597,
+        "longitude": -103.3496,
+        "locationName": "Jalisco, México"
+      }
     },
     {
       "id": "f8a9b0c1-d2e3-4567-fabc-678901234567",
@@ -19,7 +24,12 @@
       "description": "El icónico cempasúchil mexicano con flores vibrantes en naranja y amarillo, usado tradicionalmente para decorar altares en el Día de Muertos.",
       "care": "Riega regularmente. Sol pleno. Tierra con buen drenaje. Florece en otoño.",
       "registrationDate": "2024-04-01T22:26:40Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 19.4326,
+        "longitude": -99.1332,
+        "locationName": "Valle de México, Ciudad de México"
+      }
     },
     {
       "id": "a9b0c1d2-e3f4-5678-abcd-789012345678",
@@ -28,7 +38,12 @@
       "description": "La flor nacional de México, disponible en cientos de variedades con flores impresionantes que van del blanco al morado intenso.",
       "care": "Riega con frecuencia. Sol pleno a semisombra. Tierra rica con buen drenaje. Tutora las variedades altas.",
       "registrationDate": "2024-07-25T22:40:00Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 17.0732,
+        "longitude": -96.7266,
+        "locationName": "Sierra Juárez, Oaxaca"
+      }
     },
     {
       "id": "b0c1d2e3-f4a5-6789-bcde-890123456789",
@@ -37,7 +52,12 @@
       "description": "Conocida mundialmente como Poinsettia, esta planta nativa mexicana es famosa por sus brácteas rojas que florecen en Navidad.",
       "care": "Riega cuando la tierra esté seca. Luz indirecta brillante. Evita corrientes frías. Reduce el riego tras la floración.",
       "registrationDate": "2024-11-17T22:53:20Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 17.5462,
+        "longitude": -99.5018,
+        "locationName": "Taxco, Guerrero"
+      }
     },
     {
       "id": "c1d2e3f4-a5b6-7890-cdef-901234567890",
@@ -46,7 +66,12 @@
       "description": "Salvia nativa mexicana con llamativas flores azul-morado intenso que atraen colibríes y polinizadores.",
       "care": "Riega con moderación. Sol pleno a semisombra. Tierra con buen drenaje. Poda tras la floración.",
       "registrationDate": "2025-03-10T23:06:40Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 19.2465,
+        "longitude": -99.5968,
+        "locationName": "Nevado de Toluca, Estado de México"
+      }
     },
     {
       "id": "d2e3f4a5-b6c7-8901-defa-012345678901",
@@ -55,7 +80,12 @@
       "description": "Cactus icónico de México, símbolo nacional que aparece en la bandera mexicana. Sus pencas carnosas son fuente de alimento desde tiempos prehispánicos y produce flores amarillas y rojas llamadas tunas.",
       "care": "Riega con muy poca frecuencia, solo cuando la tierra esté completamente seca. Sol pleno. Tierra arenosa con excelente drenaje. Extremadamente resistente a la sequía.",
       "registrationDate": "2025-05-20T10:00:00Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 22.1565,
+        "longitude": -100.9855,
+        "locationName": "Altiplano Central, San Luis Potosí"
+      }
     },
     {
       "id": "e3f4a5b6-c7d8-9012-efab-123456789012",
@@ -64,7 +94,12 @@
       "description": "Orquídea nativa mexicana conocida por sus flores con una forma peculiar que recuerda al pico de un pelícano. Crece en los bosques de niebla y selvas húmedas del sureste de México.",
       "care": "Riega con frecuencia manteniendo humedad constante. Luz indirecta brillante. Alta humedad ambiental. Evita el sol directo y las corrientes de aire frío.",
       "registrationDate": "2025-07-10T10:00:00Z",
-      "isFavorite": true
+      "isFavorite": true,
+      "coordinates": {
+        "latitude": 17.2160,
+        "longitude": -92.1430,
+        "locationName": "Selva Lacandona, Chiapas"
+      }
     },
     {
       "id": "f4a5b6c7-d8e9-0123-fabc-234567890123",
@@ -73,7 +108,12 @@
       "description": "La versión silvestre de la Poinsettia, originaria de los bosques tropicales de México. Puede alcanzar varios metros de altura y produce las mismas brácteas rojas icónicas en su forma natural.",
       "care": "Riega regularmente en temporada de crecimiento. Sol pleno a semisombra. Tierra fértil. Tolera mejor la sequía que su versión de maceta.",
       "registrationDate": "2025-09-01T10:00:00Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 18.3515,
+        "longitude": -99.7845,
+        "locationName": "Bosque Tropical, Guerrero"
+      }
     },
     {
       "id": "a5b6c7d8-e9f0-1234-abcd-345678901234",
@@ -82,7 +122,12 @@
       "description": "El agave produce una sola floración espectacular al final de su vida, lanzando un tallo de hasta 8 metros con racimos de flores amarillas. Un evento único e irrepetible.",
       "care": "Sin cuidados adicionales, ocurre naturalmente. Sol pleno. Una vez que florece, la planta madre muere dejando hijuelos.",
       "registrationDate": "2025-11-15T10:00:00Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 16.8468,
+        "longitude": -96.7343,
+        "locationName": "Valles Centrales, Oaxaca"
+      }
     },
     {
       "id": "b6c7d8e9-f0a1-2345-bcde-456789012345",
@@ -91,6 +136,11 @@
       "description": "Árbol nativo mexicano conocido por sus llamativas flores rojas tubulares que aparecen antes que las hojas. Sus semillas color coral son usadas en artesanías tradicionales.",
       "care": "Riega moderadamente. Sol pleno. Resistente a la sequía una vez establecido. Poda de formación en temporada seca.",
       "registrationDate": "2026-01-20T10:00:00Z",
-      "isFavorite": false
+      "isFavorite": false,
+      "coordinates": {
+        "latitude": 20.9674,
+        "longitude": -89.6237,
+        "locationName": "Península de Yucatán, Yucatán"
+      }
     }]
 }
